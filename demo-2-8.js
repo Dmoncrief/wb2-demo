@@ -10,4 +10,4 @@ num = num + 1;
 
 
 
-console.log("The new vaue of num is:" + num);
+console.log("The new value of num is:" + num);
